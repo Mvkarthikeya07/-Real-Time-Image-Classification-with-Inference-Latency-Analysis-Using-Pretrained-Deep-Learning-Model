@@ -116,4 +116,10 @@ The project successfully demonstrates an **optimized image classification pipeli
 
 ---
 
+📜 License
+
+This project is released under the MIT License and is intended strictly for academic and educational purposes.
+
+---
+
 > *This project focuses on AI system performance and inference optimization rather than model training or dataset creation.*
