@@ -78,7 +78,7 @@ These technologies significantly reduce inference latency in production environm
 
 ### 🔹 Image Classification Result
 
-![Uploading Screenshot (108).png…]()
+<img width="1366" height="768" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/6d868c86-01f6-469c-8295-3cea122bcdf8" />
 
 ---
 
